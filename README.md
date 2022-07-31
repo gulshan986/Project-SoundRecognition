@@ -1,8 +1,9 @@
 # Sound Recognition
 
-No need to first download all the files and then open it in Android Studio to get the APK after installing multiple packages. Just download directly from the below link.
+To obtain the APK after installing multiple packages, there is no requirement to first download all the files and then open them in Android Studio. Simply download the app directly to your Android device using the link below to check how it works.
 
 - APK Download Link : [Link](https://bit.ly/3oENaZV)
+
 ##
 ## :scroll: Description
 Sound Recognition Android App Using Jetpack Compose and HMS ML Kit
